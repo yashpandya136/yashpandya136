@@ -6,8 +6,8 @@
 <!--  <samp><b>Currently, I'm in my 3rd year of B.E. in IT. </samp></b> -->
 <!--    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 200px; height: 200px;"/></a>  -->
 - 👨🏻‍🎓 Currently persuing my B.E. in IT
-- 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently Python + MERN Stack
+- 🔭 I’m currently working at U.S. based IT Company Cloud4Code 
+- 🌱 Learning on Web 3.0
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
